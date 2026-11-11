@@ -1,0 +1,37 @@
+[
+  {
+    "asset": "buddha-refined",
+    "bytes": 1821632,
+    "triangles": 72140
+  },
+  {
+    "asset": "buddha-lod-refined",
+    "bytes": 674000,
+    "triangles": 23516
+  },
+  {
+    "asset": "buddha-meditation-refined",
+    "bytes": 1049964,
+    "triangles": 38834
+  },
+  {
+    "asset": "buddha-teaching-refined",
+    "bytes": 1052684,
+    "triangles": 38888
+  },
+  {
+    "asset": "buddha-walking-refined",
+    "bytes": 512752,
+    "triangles": 17980
+  },
+  {
+    "asset": "buddha-standing-refined",
+    "bytes": 511732,
+    "triangles": 17948
+  },
+  {
+    "asset": "buddha-reassurance-refined",
+    "bytes": 512696,
+    "triangles": 17980
+  }
+]

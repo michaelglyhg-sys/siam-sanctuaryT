@@ -1,0 +1,14 @@
+[
+  {
+    "asset": "visitor-male",
+    "height": 2.025000087916851,
+    "min_z": 7.450580596923828e-09,
+    "triangles": 19010
+  },
+  {
+    "asset": "visitor-female",
+    "height": 1.9120000526309013,
+    "min_z": 7.450580596923828e-09,
+    "triangles": 19510
+  }
+]

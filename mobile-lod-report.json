@@ -1,0 +1,17 @@
+[
+  {
+    "name": "temple-lod",
+    "triangles": 37513,
+    "meshes": 7
+  },
+  {
+    "name": "buddha-lod",
+    "triangles": 9260,
+    "meshes": 2
+  },
+  {
+    "name": "palm-lod",
+    "triangles": 3194,
+    "meshes": 5
+  }
+]
